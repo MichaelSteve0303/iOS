@@ -1,2 +1,2 @@
 # iOS
-app Mobile for iOS (Swift / Swift UI / Objective-C)
+apps Mobile for iOS Developers in :  (Swift / Swift UI / Objective-C)
